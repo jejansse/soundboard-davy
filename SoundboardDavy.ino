@@ -77,13 +77,13 @@ void loop() {
       playFile("nolapola");
       break;
      case('5'):
-      playFile("noprob~2");
+      playFile("noprob~1");
       break;
      case('6'):
       playFile("okidokee");
       break;
      case('7'):
-      playFile("prijsk~2");
+      playFile("prijsk~1");
       break;
      case('8'):
       playFile("tijdbom");
